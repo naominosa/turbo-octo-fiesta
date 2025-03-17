@@ -13,7 +13,7 @@ function Colorpicker() {
         <p>Selected Color:{color}</p>
         <label > select a color:</label>
         <input type="color" value={color} onChange={handleColorPicker} />
-
+            
       </div>
       
     </div>
